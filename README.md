@@ -1,6 +1,6 @@
 ### Olá, sou o Nicolas 👋
 
-Atuo como **estagiário de Sistemas** e estou me profissionalizando para migrar para **Dados, BI e Automação**. Trago experiência prática com **ERP e controle orçamentário corporativo** — ou seja, já entendo os processos de negócio que os dados de uma empresa precisam representar.
+Atuo como **estagiário de Sistemas** e estou me profissionalizando em **Dados, BI e Automação**. Trago experiência prática com **ERP e controle orçamentário corporativo** — ou seja, já entendo os processos de negócio que os dados de uma empresa precisam representar.
 
 **Stack atual:** SQL · PostgreSQL · PL/pgSQL · Modelagem de Dados (star schema) · Git/GitHub
 
